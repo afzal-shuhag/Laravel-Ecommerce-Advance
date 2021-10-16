@@ -121,3 +121,178 @@ class ProductController extends Controller
         //                 return Redirect()->back()->with($notification);
 
         // }
+        // if ($image_one && $image_two) {
+            
+        //     $image_one = hexdec(uniqid());
+        //     $image_two = hexdec(uniqid());
+
+        //     $image_one_name = $image_one.'.'.$image_one->getClientOriginalExtension();
+        //     $image_two_name = $image_two.'.'.$image_two->getClientOriginalExtension();
+        //     $upload_path = "public/media/product/";
+
+        //     $success = $image_one->move($upload_path,$image_one_name);
+        //     $success = $image_two->move($upload_path,$image_two_name);
+
+        //     $data['image_one'] = $image_one_name;
+        //     $data['image_two'] = $image_two_name;
+
+        //     $insert = DB::table('products')->insert($data);
+        //                 $notification = array(
+
+        //                 'messege' => 'Product stored Successfully!!',
+        //                 'alert-type' => 'success'
+
+        //                  );
+        //                 return Redirect()->back()->with($notification);
+
+        // }
+        // if ($image_one && $image_two) {
+            
+        //     $image_one = hexdec(uniqid());
+        //     $image_two = hexdec(uniqid());
+
+        //     $image_one_name = $image_one.'.'.$image_one->getClientOriginalExtension();
+        //     $image_two_name = $image_two.'.'.$image_two->getClientOriginalExtension();
+        //     $upload_path = "public/media/product/";
+
+        //     $success = $image_one->move($upload_path,$image_one_name);
+        //     $success = $image_two->move($upload_path,$image_two_name);
+
+        //     $data['image_one'] = $image_one_name;
+        //     $data['image_two'] = $image_two_name;
+
+        //     $insert = DB::table('products')->insert($data);
+        //                 $notification = array(
+
+        //                 'messege' => 'Product stored Successfully!!',
+        //                 'alert-type' => 'success'
+
+        //                  );
+        //                 return Redirect()->back()->with($notification);
+
+        // }
+        // if ($image_one && $image_two) {
+            
+        //     $image_one = hexdec(uniqid());
+        //     $image_two = hexdec(uniqid());
+
+        //     $image_one_name = $image_one.'.'.$image_one->getClientOriginalExtension();
+        //     $image_two_name = $image_two.'.'.$image_two->getClientOriginalExtension();
+        //     $upload_path = "public/media/product/";
+
+        //     $success = $image_one->move($upload_path,$image_one_name);
+        //     $success = $image_two->move($upload_path,$image_two_name);
+
+        //     $data['image_one'] = $image_one_name;
+        //     $data['image_two'] = $image_two_name;
+
+        //     $insert = DB::table('products')->insert($data);
+        //                 $notification = array(
+
+        //                 'messege' => 'Product stored Successfully!!',
+        //                 'alert-type' => 'success'
+
+        //                  );
+        //                 return Redirect()->back()->with($notification);
+
+        // }
+        // if ($image_one && $image_two) {
+            
+        //     $image_one = hexdec(uniqid());
+        //     $image_two = hexdec(uniqid());
+
+        //     $image_one_name = $image_one.'.'.$image_one->getClientOriginalExtension();
+        //     $image_two_name = $image_two.'.'.$image_two->getClientOriginalExtension();
+        //     $upload_path = "public/media/product/";
+
+        //     $success = $image_one->move($upload_path,$image_one_name);
+        //     $success = $image_two->move($upload_path,$image_two_name);
+
+        //     $data['image_one'] = $image_one_name;
+        //     $data['image_two'] = $image_two_name;
+
+        //     $insert = DB::table('products')->insert($data);
+        //                 $notification = array(
+
+        //                 'messege' => 'Product stored Successfully!!',
+        //                 'alert-type' => 'success'
+
+        //                  );
+        //                 return Redirect()->back()->with($notification);
+
+        // }
+        // if ($image_one && $image_two) {
+            
+        //     $image_one = hexdec(uniqid());
+        //     $image_two = hexdec(uniqid());
+
+        //     $image_one_name = $image_one.'.'.$image_one->getClientOriginalExtension();
+        //     $image_two_name = $image_two.'.'.$image_two->getClientOriginalExtension();
+        //     $upload_path = "public/media/product/";
+
+        //     $success = $image_one->move($upload_path,$image_one_name);
+        //     $success = $image_two->move($upload_path,$image_two_name);
+
+        //     $data['image_one'] = $image_one_name;
+        //     $data['image_two'] = $image_two_name;
+
+        //     $insert = DB::table('products')->insert($data);
+        //                 $notification = array(
+
+        //                 'messege' => 'Product stored Successfully!!',
+        //                 'alert-type' => 'success'
+
+        //                  );
+        //                 return Redirect()->back()->with($notification);
+
+        // }
+        // if ($image_one && $image_two) {
+            
+        //     $image_one = hexdec(uniqid());
+        //     $image_two = hexdec(uniqid());
+
+        //     $image_one_name = $image_one.'.'.$image_one->getClientOriginalExtension();
+        //     $image_two_name = $image_two.'.'.$image_two->getClientOriginalExtension();
+        //     $upload_path = "public/media/product/";
+
+        //     $success = $image_one->move($upload_path,$image_one_name);
+        //     $success = $image_two->move($upload_path,$image_two_name);
+
+        //     $data['image_one'] = $image_one_name;
+        //     $data['image_two'] = $image_two_name;
+
+        //     $insert = DB::table('products')->insert($data);
+        //                 $notification = array(
+
+        //                 'messege' => 'Product stored Successfully!!',
+        //                 'alert-type' => 'success'
+
+        //                  );
+        //                 return Redirect()->back()->with($notification);
+
+        // }
+        // if ($image_one && $image_two) {
+            
+        //     $image_one = hexdec(uniqid());
+        //     $image_two = hexdec(uniqid());
+
+        //     $image_one_name = $image_one.'.'.$image_one->getClientOriginalExtension();
+        //     $image_two_name = $image_two.'.'.$image_two->getClientOriginalExtension();
+        //     $upload_path = "public/media/product/";
+
+        //     $success = $image_one->move($upload_path,$image_one_name);
+        //     $success = $image_two->move($upload_path,$image_two_name);
+
+        //     $data['image_one'] = $image_one_name;
+        //     $data['image_two'] = $image_two_name;
+
+        //     $insert = DB::table('products')->insert($data);
+        //                 $notification = array(
+
+        //                 'messege' => 'Product stored Successfully!!',
+        //                 'alert-type' => 'success'
+
+        //                  );
+        //                 return Redirect()->back()->with($notification);
+
+        // }
